@@ -1,9 +1,4 @@
-[debug] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.12/2.8.5/jackson-module-scala_2.12-2.8.5.pom
-[debug] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-paranamer/2.8.5/jackson-module-paranamer-2.8.5.pom
-[debug] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-modules-base/2.8.5/jackson-modules-base-2.8.5.pom
-[debug] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-paranamer/2.8.5/jackson-module-paranamer-2.8.5.jar
-[debug] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.12/2.8.5/jackson-module-scala_2.12-2.8.5.jar
-[debug] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.12/2.8.5/jackson-module-scala_2.12-2.8.5-sources.jar
-[debug] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-paranamer/2.8.5/jackson-module-paranamer-2.8.5-javadoc.jar
-[debug] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-paranamer/2.8.5/jackson-module-paranamer-2.8.5-sources.jar
-[debug] downloaded https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.12/2.8.5/jackson-module-scala_2.12-2.8.5-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/com/peertopark/java/geocalc/1.1.0/geocalc-1.1.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/com/peertopark/java/geocalc/1.1.0/geocalc-1.1.0.jar
+[debug] downloaded https://repo1.maven.org/maven2/com/peertopark/java/geocalc/1.1.0/geocalc-1.1.0-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/com/peertopark/java/geocalc/1.1.0/geocalc-1.1.0-javadoc.jar
