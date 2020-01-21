@@ -13,7 +13,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="sbt: aopalliance:aopalliance:1.0:jar" level="project" />
-    <orderEntry type="library" name="sbt: com.peertopark.java:geocalc:1.1.0:jar" level="project" />
     <orderEntry type="module-library">
       <library name="sbt: unmanaged-sources-and-docs">
         <CLASSES />
@@ -49,7 +48,7 @@
     <orderEntry type="library" name="sbt: org.roaringbitmap:RoaringBitmap:0.7.45:jar" level="project" />
     <orderEntry type="library" name="sbt: org.objenesis:objenesis:2.5.1:jar" level="project" />
     <orderEntry type="library" name="sbt: org.mortbay.jetty:jetty-util:6.1.26:jar" level="project" />
-    <orderEntry type="library" name="sbt: org.lz4:lz4-java:1.4.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.lz4:lz4-java:1.5.0:jar" level="project" />
     <orderEntry type="library" name="sbt: org.json4s:json4s-scalap_2.12:3.5.3:jar" level="project" />
     <orderEntry type="library" name="sbt: org.json4s:json4s-jackson_2.12:3.5.3:jar" level="project" />
     <orderEntry type="library" name="sbt: org.json4s:json4s-core_2.12:3.5.3:jar" level="project" />
@@ -101,7 +100,7 @@
     <orderEntry type="library" name="sbt: org.apache.orc:orc-shims:1.5.5:jar" level="project" />
     <orderEntry type="library" name="sbt: org.apache.orc:orc-mapreduce:1.5.5:nohive:jar" level="project" />
     <orderEntry type="library" name="sbt: org.apache.orc:orc-core:1.5.5:nohive:jar" level="project" />
-    <orderEntry type="library" name="sbt: org.apache.kafka:kafka-clients:2.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.kafka:kafka-clients:2.1.0:jar" level="project" />
     <orderEntry type="library" name="sbt: org.apache.ivy:ivy:2.4.0:jar" level="project" />
     <orderEntry type="library" name="sbt: org.apache.httpcomponents:httpcore:4.2.4:jar" level="project" />
     <orderEntry type="library" name="sbt: org.apache.httpcomponents:httpclient:4.2.5:jar" level="project" />
@@ -140,6 +139,7 @@
     <orderEntry type="library" name="sbt: org.antlr:antlr4-runtime:4.7:jar" level="project" />
     <orderEntry type="library" name="sbt: net.sf.py4j:py4j:0.10.7:jar" level="project" />
     <orderEntry type="library" name="sbt: net.razorvine:pyrolite:4.13:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.cakesolutions:scala-kafka-client_2.12:2.1.0:jar" level="project" />
     <orderEntry type="library" name="sbt: log4j:log4j:1.2.17:jar" level="project" />
     <orderEntry type="library" name="sbt: joda-time:joda-time:2.9.9:jar" level="project" />
     <orderEntry type="library" name="sbt: jline:jline:0.9.94:jar" level="project" />
@@ -172,16 +172,18 @@
     <orderEntry type="library" name="sbt: com.univocity:univocity-parsers:2.7.3:jar" level="project" />
     <orderEntry type="library" name="sbt: com.typesafe.play:play-json_2.12:2.6.0-M7:jar" level="project" />
     <orderEntry type="library" name="sbt: com.typesafe.play:play-functional_2.12:2.6.0-M7:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe:config:1.4.0:jar" level="project" />
     <orderEntry type="library" name="sbt: com.twitter:chill_2.12:0.9.3:jar" level="project" />
     <orderEntry type="library" name="sbt: com.twitter:chill-java:0.9.3:jar" level="project" />
     <orderEntry type="library" name="sbt: com.thoughtworks.paranamer:paranamer:2.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.peertopark.java:geocalc:1.1.0:jar" level="project" />
     <orderEntry type="library" name="sbt: com.ning:compress-lzf:1.0.3:jar" level="project" />
     <orderEntry type="library" name="sbt: com.google.protobuf:protobuf-java:2.5.0:jar" level="project" />
     <orderEntry type="library" name="sbt: com.google.inject:guice:3.0:jar" level="project" />
     <orderEntry type="library" name="sbt: com.google.guava:guava:16.0.1:jar" level="project" />
     <orderEntry type="library" name="sbt: com.google.code.gson:gson:2.2.4:jar" level="project" />
     <orderEntry type="library" name="sbt: com.google.code.findbugs:jsr305:3.0.2:jar" level="project" />
-    <orderEntry type="library" name="sbt: com.github.luben:zstd-jni:1.3.2-2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.luben:zstd-jni:1.3.5-4:jar" level="project" />
     <orderEntry type="library" name="sbt: com.fasterxml.jackson.module:jackson-module-scala_2.12:2.8.5:jar" level="project" />
     <orderEntry type="library" name="sbt: com.fasterxml.jackson.module:jackson-module-paranamer:2.8.5:jar" level="project" />
     <orderEntry type="library" name="sbt: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.8.5:jar" level="project" />
@@ -193,6 +195,5 @@
     <orderEntry type="library" name="sbt: com.esotericsoftware:kryo-shaded:4.0.2:jar" level="project" />
     <orderEntry type="library" name="sbt: com.clearspring.analytics:stream:2.7.0:jar" level="project" />
     <orderEntry type="library" name="sbt: com.carrotsearch:hppc:0.7.2:jar" level="project" />
-    <orderEntry type="library" name="sbt: com.typesafe:config:1.4.0:jar" level="project" />
   </component>
 </module>

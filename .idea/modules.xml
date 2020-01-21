@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/traffic-alerts.iml" filepath="$PROJECT_DIR$/.idea/modules/traffic-alerts.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/traffic-alerts-build.iml" filepath="$PROJECT_DIR$/.idea/modules/traffic-alerts-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/traffic-analysis.iml" filepath="$PROJECT_DIR$/.idea/modules/traffic-analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/traffic-analysis-build.iml" filepath="$PROJECT_DIR$/.idea/modules/traffic-analysis-build.iml" />
     </modules>
   </component>
 </project>
